@@ -1111,4 +1111,5 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.64
 
 
-- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
+- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)
+
