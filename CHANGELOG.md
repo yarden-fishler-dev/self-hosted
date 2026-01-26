@@ -1118,3 +1118,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.1.0
 
 Feature: Added GitHub Action to auto-generate changelog entries from PR context using AWS Bedrock, (#20309)
+&nbsp;
+## v4.2.0
+
+Feature: Added GitHub Action to auto-generate changelog entries from PR context using AWS Bedrock, (#20309)
+Chore: Refactored state management to use pre-signed S3 URLs instead of direct agent S3 access, (#20406)
